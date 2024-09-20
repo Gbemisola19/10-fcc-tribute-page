@@ -14,8 +14,8 @@ Additional description of the project and its features.
   - `display`, `max-width`, `text-align`,
   - `margin`, `padding` `color`
 - Linters
-  - [prettier](https://prettier.io/)
-  - [stylelint](https://stylelint.io/)
+  - [Prettier](https://prettier.io/)
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
